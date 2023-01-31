@@ -17,7 +17,7 @@ export const Button = styled('button', {
       },
       big: {
         fontSize: 16,
-        padding: '$3 §6',
+        padding: '$3 $6',
       },
     },
   },
