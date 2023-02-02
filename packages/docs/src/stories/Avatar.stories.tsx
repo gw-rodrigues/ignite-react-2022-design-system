@@ -8,6 +8,7 @@ export default {
     src: 'https://github.com/gw-rodrigues.png',
     alt: 'Gleydson Rodrigues',
   },
+  argTypes: { src: { control: { type: 'text' } } },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
