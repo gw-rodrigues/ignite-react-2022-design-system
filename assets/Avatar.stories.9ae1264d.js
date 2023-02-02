@@ -1,0 +1,2 @@
+import{A as t}from"./index.c67832ff.js";import"./index.d3ebab7c.js";import"./iframe.7cee3cb2.js";import"./index.7dfd5e85.js";import"./jsx-runtime.0b6b2a81.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gw-rodrigues.png",alt:"Gleydson Rodrigues"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallBack"];export{p as Primary,c as WithFallBack,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.9ae1264d.js.map
